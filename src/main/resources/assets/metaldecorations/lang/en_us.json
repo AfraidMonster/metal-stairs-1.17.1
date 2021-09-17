@@ -1,0 +1,21 @@
+{
+    "block.metaldecorations.coal_stairs":"Coal Stairs",
+    "block.metaldecorations.copper_stairs":"Copper Stairs",
+    "block.metaldecorations.diamond_stairs":"Diamond Stairs",
+    "block.metaldecorations.emerald_stairs":"Emerald Stairs",
+    "block.metaldecorations.gold_stairs":"Gold Stairs",
+    "block.metaldecorations.iron_stairs":"Iron Stairs",
+    "block.metaldecorations.lapis_stairs":"Lapis Stairs",
+    "block.metaldecorations.netherite_stairs":"Netherite Stairs",
+    "block.metaldecorations.redstone_stairs":"Redstone Stairs",
+    "block.metaldecorations.coal_slab":"Coal Slab",
+    "block.metaldecorations.copper_slab":"Copper Slab",
+    "block.metaldecorations.diamond_slab":"Diamond Slab",
+    "block.metaldecorations.emerald_slab":"Emerald Slab",
+    "block.metaldecorations.gold_slab":"Gold Slab",
+    "block.metaldecorations.iron_slab":"Iron Slab",
+    "block.metaldecorations.lapis_slab":"Lapis Slab",
+    "block.metaldecorations.netherite_slab":"Netherite Slab",
+    "block.metaldecorations.redstone_slab":"Redstone Slab",
+    "itemGroup.metaldecorations.metal_decorations":"Metal Decorations"
+}

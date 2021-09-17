@@ -1,0 +1,14 @@
+{
+    "replace": false,
+    "values": [
+      "metaldecorations:gold_slab",
+      "metaldecorations:iron_slab",
+      "metaldecorations:lapis_slab",
+      "metaldecorations:copper_slab",
+      "metaldecorations:diamond_slab",
+      "metaldecorations:netherite_slab",
+      "metaldecorations:emerald_slab",
+      "metaldecorations:redstone_slab",
+      "metaldecorations:coal_slab"
+    ]
+}

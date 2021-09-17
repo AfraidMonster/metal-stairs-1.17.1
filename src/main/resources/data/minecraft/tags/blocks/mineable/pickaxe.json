@@ -1,0 +1,28 @@
+{
+    "replace": false,
+    "values": [
+      "metaldecorations:iron_stairs",
+      "metaldecorations:gold_stairs",
+      "metaldecorations:lapis_stairs",
+      "metaldecorations:copper_stairs",
+      "metaldecorations:diamond_stairs",
+      "metaldecorations:netherite_stairs",
+      "metaldecorations:emerald_stairs",
+      "metaldecorations:redstone_stairs",
+      "metaldecorations:coal_stairs",
+      "metaldecorations:iron_slab",
+      "metaldecorations:gold_slab",
+      "metaldecorations:lapis_slab",
+      "metaldecorations:copper_slab",
+      "metaldecorations:diamond_slab",
+      "metaldecorations:netherite_slab",
+      "metaldecorations:emerald_slab",
+      "metaldecorations:redstone_slab",
+      "metaldecorations:coal_slab"
+
+
+
+
+    ]
+
+  }

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "metaldecorations:block/copper_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/copper_block"
+    },
+    "type=top": {
+      "model": "metaldecorations:block/copper_slab_top"
+    }
+  }
+}
